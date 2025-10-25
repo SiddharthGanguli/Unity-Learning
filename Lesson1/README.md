@@ -44,7 +44,7 @@ public class BallMovement : MonoBehaviour
         rb.velocity = movement * speed;
     }
 }
-
+```
 # Explanation of the Script
 
 - **`public float speed`** → Sets how fast the ball moves.
